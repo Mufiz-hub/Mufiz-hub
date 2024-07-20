@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mufiz</h1>
 <h3 align="center">A passionate Mobile Application and frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mufiz&label=Profile%20views&color=0e75b6&style=flat](https://dribbble.com/shots/3848914-Programmer-Thomas)" alt="mufiz" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" alt="mufiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mufiz_kazi" target="blank"><img src="https://img.shields.io/twitter/follow/mufiz_kazi?logo=twitter&style=for-the-badge" alt="mufiz_kazi" /></a> </p>
 
