@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Application and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
-<p align="left"> <img src="" alt="mufiz" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mufiz&show_icons=true&locale=en&layout=compact" alt="mufiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mufiz_kazi" target="blank"><img src="https://img.shields.io/twitter/follow/mufiz_kazi?logo=twitter&style=for-the-badge" alt="mufiz_kazi" /></a> </p>
 
