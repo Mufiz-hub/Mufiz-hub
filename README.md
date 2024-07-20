@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mufiz_kazi" target="blank"><img src="https://img.shields.io/twitter/follow/mufiz_kazi?logo=twitter&style=for-the-badge" alt="mufiz_kazi" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Swift UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mufiz-hub](https://github.com/Mufiz-hub)
 
